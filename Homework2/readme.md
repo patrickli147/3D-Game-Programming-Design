@@ -1,1 +1,2 @@
-代码文件在
+代码文件在tictactoe文件夹中
+视频链接在video.md中
