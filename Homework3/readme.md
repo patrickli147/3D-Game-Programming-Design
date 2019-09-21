@@ -16,7 +16,7 @@ Priests and Devils is a puzzle game in which you will help the Priests and Devil
 
 
 | 动作 | 执行条件 | 执行结果 |
-| :-----| ----: | :----: |
+| :----:| :----: | :----: |
 | 点击牧师/魔鬼 | 游戏进行中&&船未移动&&船与牧师/魔鬼在同岸&&船上乘客数少于2 | 牧师/魔鬼移动 |
 | 点击船 | 游戏进行中、船上至少有一位乘客 | 船移动 |
 
