@@ -2,7 +2,7 @@
 
 
 博客地址：https://blog.csdn.net/patrick_lii/article/details/102471991
-游戏演示视频：
+游戏演示视频：https://v.qq.com/x/page/i30068b5v58.html?ptag=2_7.6.0.20170_wxf
 
 
 ## 简单打飞碟小游戏
